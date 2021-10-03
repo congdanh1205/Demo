@@ -1,3 +1,5 @@
 Chào các bạn
 Đây là nhánh của us1
 Đây là master
+Đây là master
+Đây là user 1
